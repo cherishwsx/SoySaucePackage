@@ -1,0 +1,14 @@
+Package: SoySauce
+Title: Decision Tree and Random Forest
+Version: 0.0.0.9000
+Authors@R: person("Zhiyuan", "Shu", email = "first.last@example.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.4)
+Import: rlist, igraph, stringr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2018-05-04 17:33:50 UTC; cherish
+Author: Zhiyuan Shu [aut, cre]
+Maintainer: Zhiyuan Shu <first.last@example.com>

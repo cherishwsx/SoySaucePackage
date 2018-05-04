@@ -1,0 +1,11 @@
+Package: SoySauce
+Title: Decision Tree and Random Forest
+Version: 0.0.0.9000
+Authors@R: c(person("Zhiyuan", "Shu", email = "szynate@outlook.com", role = c("aut")),person("Sixuan", "Wu", email = "w.sixuan@outlook.com", role = c("aut","cre")),person("Yuting", "Chen", email = "cyt3399@sina.cn", role = c("aut")))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.4.4) 
+Import: rlist, igraph, stringr
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
