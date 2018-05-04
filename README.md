@@ -1,2 +1,0 @@
-# SoySaucePackage
-First Package
